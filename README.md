@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I use:</h3>
 <p align="left">
   <!-- All skillicons.dev icons -->
   <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" width="50" height="50"/></a>&nbsp;
