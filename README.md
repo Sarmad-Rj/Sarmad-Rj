@@ -188,7 +188,12 @@ match of chess with me.**
       style="background-color: #413434; padding: 6px; border-radius: 8px"
     />
   </a>
+  <a href="https://streamlit.io/" target="_blank">
+     <img src="https://skillicons.dev/icons?i=streamlit" width="40" height="40"/>
+  </a>
 </p>
+
+
 
 <p>
   <img
@@ -214,9 +219,6 @@ match of chess with me.**
   />
 </p>
 
-<p>
- <img src="https://skillicons.dev/icons?i=streamlit" width="40" height="40"/>
-</p>
 
 
 
