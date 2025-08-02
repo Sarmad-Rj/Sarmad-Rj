@@ -57,16 +57,17 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarmad-rj&show_icons=true&theme=ocean_dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-rj&theme=aura_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarmad-rj&show_icons=true&theme=flag-india" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-rj&theme=flag-india" height="150"/>
 </p> 
 <!-- codeSTACKr -->
 <!-- tokyonight -->
 <!-- aura_dark -->
+<!-- ocean_dark -->
 
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad-rj&show_icons=true&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad-rj&show_icons=true&layout=compact&theme=flag-india" height="150"/>
 </p>
 
 ---
@@ -74,6 +75,6 @@
 <h3 align="left">🏆 LeetCode Stats:</h3>
 <p align="center">
   <a href="https://leetcode.com/sarmad-rj">
-    <img src="https://leetcard.jacoblin.cool/sarmad-rj" />
+    <img src="https://leetcard.jacoblin.cool/sarmad-rj?theme=light&font=Baloo%202&ext=contest" />
   </a>
 </p>
