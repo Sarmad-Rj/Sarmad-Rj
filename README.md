@@ -3,9 +3,8 @@
 </p>
 <h3 align="center">A BCS student, passionate about building practical software solutions.</h3>
 
-
-
 ---
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="200"/>
 
 - 🌱 I’m currently learning **Java, Data Structures and Algorithms, AI, Python**
 - 💬 Ask me about **Java, Typescript, Angular, Ionic**
