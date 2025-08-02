@@ -195,13 +195,7 @@ match of chess with me.**
 
 
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad-rj&show_icons=true&locale=en&layout=compact"
-    alt="sarmad-rj"
-  />
-</p>
+
 
 <p>
   &nbsp;<img
@@ -218,7 +212,13 @@ match of chess with me.**
     alt="sarmad-rj"
   />
 </p>
-
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad-rj&show_icons=true&locale=en&layout=compact"
+    alt="sarmad-rj"
+  />
+</p>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sarmad-rj)
 
 
