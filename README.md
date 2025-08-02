@@ -207,9 +207,10 @@ match of chess with me.**
 
 <p>
   <img
-    align="right"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-rj&"
     alt="sarmad-rj"
+    style="background-color: #1e1e1e; padding: 6px; border-radius: 8px"
   />
 </p>
 
