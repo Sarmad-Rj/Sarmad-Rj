@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm SARMAD</h1>
-<h3 align="center">A BCS student, passionate about building practical software solutions.</h3>
-
-<p align="center">
+<h1 align="center">Hi 👋, I'm SARMAD</h1> <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sarmad-rj&label=Profile%20views&color=0e75b6&style=flat" alt="sarmad-rj" />
 </p>
+<h3 align="center">A BCS student, passionate about building practical software solutions.</h3>
+
+
 
 ---
 
