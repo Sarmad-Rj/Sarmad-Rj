@@ -53,6 +53,8 @@
   <a href="https://www.oracle.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="46" height="46"/></a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,cpp,css,docker,anaconda,firebase,git,github,html,java,mongodb,nodejs,typescript,npm,postman,vscode,idea,python,android,streamlit&perline=10)](https://skillicons.dev)
+
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
@@ -78,3 +80,6 @@
     <img src="https://leetcard.jacoblin.cool/sarmad-rj?theme=light&font=Baloo%202&ext=contest" />
   </a>
 </p>
+
+
+
