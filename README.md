@@ -39,4 +39,31 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
 </p>
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left">
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+  
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+  
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40"/>
+  
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
+  
+  <!-- Java -->
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  
+  <!-- VS Code -->
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
+  
+  <!-- IntelliJ -->
+  <img src="https://skillicons.dev/icons?i=idea" width="40" height="40"/>
+  
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+</p>
+
 
