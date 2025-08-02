@@ -12,8 +12,11 @@
 </p>
 
 - 🌱 I’m currently learning **Java, Data Structures and Algorithms, along side
-AI, Pyhton** - 💬 Ask me about **Java, Typescript, Angular, Ionic** - 📫 How to
-reach me **sarmadrajpoot291@outlook.com** - ⚡ Fun fact **I would like have a
+AI, Pyhton**
+- 💬 Ask me about **Java, Typescript, Angular, Ionic**
+- - 📫 How to
+reach me **sarmadrajpoot291@outlook.com**
+- ⚡ Fun fact **I would like have a
 match of chess with me.**
 
 <h3 align="left">Connect with me:</h3>
