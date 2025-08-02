@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sarmad-rj" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45" width="45" /></a>
+  <a href="https://linkedin.com/in/sarmad-rj" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45" width="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/sarmadrajpoot291" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" height="44" width="44" /></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/sarmad-rj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" /></a>
 </p>
 
