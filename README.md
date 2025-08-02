@@ -199,7 +199,7 @@ match of chess with me.**
 
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=sarmad-rj&show_icons=true&locale=en"
     alt="sarmad-rj"
   />
@@ -207,7 +207,7 @@ match of chess with me.**
 
 <p>
   <img
-    align="center"
+    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-rj&"
     alt="sarmad-rj"
   />
