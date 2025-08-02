@@ -221,10 +221,7 @@ match of chess with me.**
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sarmad-rj?theme=dark&font=Baloo%202&ext=contest)
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=solved&url=https://leetcode-badge-api.herokuapp.com/sarmad-rj&logo=leetcode&logoColor=yellow)
-![LeetCode Stats](https://leetcard.jacoblin.cool/sarmad-rj?theme=dark&font=Baloo%202&ext=contest)
-![LeetCode Stats](https://leetcard.jacoblin.cool/sarmad-rj?theme=dark&font=Baloo%202&ext=contest)
-![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=sarmad-rj&theme=dark)
+
 
 
 
