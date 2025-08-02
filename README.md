@@ -25,12 +25,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarmad-rj&show_icons=true&locale=en" alt="sarmad-rj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-rj&" alt="sarmad-rj" /></p>
+
+---------------------------
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sarmad-Rj&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sarmad-Rj&theme=transparent&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarmad-Rj&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sarmad-Rj&icon=10&color=3)](https://visitcount.itsvg.in)
+<p><img align="center" src="https://visitcount.itsvg.in/api?id=Sarmad-Rj&icon=10&color=3" alt="sarmad-rj" /></p>
+[![]()](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
