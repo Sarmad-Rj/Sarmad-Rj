@@ -27,4 +27,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-rj&" alt="sarmad-rj" /></p>
 
 ---------------------------
+<h3 align="left">🛠 Tools I Use:</h3>
+<p align="left">
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  
+  <!-- IntelliJ IDEA -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+</p>
 
