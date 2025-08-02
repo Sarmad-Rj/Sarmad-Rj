@@ -220,5 +220,6 @@ match of chess with me.**
 </p>
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sarmadrj?theme=dark&font=Baloo%202&ext=contest)
 
 
