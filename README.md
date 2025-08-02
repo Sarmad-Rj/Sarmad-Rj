@@ -5,6 +5,7 @@
 
 ---
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="200"/>
+&nbsp;
 
 - 🌱 I’m currently learning **Java, Data Structures and Algorithms, AI, Python**
 - 💬 Ask me about **Java, Typescript, Angular, Ionic**
