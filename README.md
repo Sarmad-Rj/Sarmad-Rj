@@ -57,15 +57,16 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarmad-rj&show_icons=true&theme=codeSTACKr" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-rj&theme=codeSTACKr" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarmad-rj&show_icons=true&theme=aura_dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-rj&theme=aura_dark" height="150"/>
 </p> 
 <!-- codeSTACKr -->
 <!-- tokyonight -->
+<!-- aura_dark -->
 
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad-rj&show_icons=true&layout=compact&theme=codeSTACKr" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad-rj&show_icons=true&layout=compact&theme=github_dark" height="150"/>
 </p>
 
 ---
