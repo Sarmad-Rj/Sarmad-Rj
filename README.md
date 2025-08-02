@@ -46,7 +46,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" width="50" height="50"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://skillicons.dev/icons?i=streamlit" width="50" height="50"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50"/></a>
    <a href="https://www.oracle.com/" target="_blank"><img src="https://matplotlib.org/_static/images/documentation.svg" width="40" height="40" style="background-color: #413434; padding: 6px; border-radius: 8px"/></a>
   <!-- Custom background icons for missing ones -->
   <a href="https://developer.android.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50"/></a>
