@@ -26,27 +26,30 @@
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left">
   <!-- All skillicons.dev icons -->
-  <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" width="50" height="50"/></a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/></a>&nbsp;
+  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" width="50" height="50"/></a>&nbsp;
   <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/></a>&nbsp;
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/></a>&nbsp;
-  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50"/></a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50"/></a>&nbsp;
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/></a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/></a>&nbsp;
   <a href="https://github.com/Sarmad-Rj" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/></a>&nbsp;
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="50" height="50"/></a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/></a>&nbsp;
+  <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" width="50" height="50"/></a>&nbsp;
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/></a>&nbsp;
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" width="50" height="50"/></a>&nbsp;
-  <a href="https://ionicframework.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="50" height="50"/></a>&nbsp;
+  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="50" height="50"/></a>&nbsp;
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50"/></a>&nbsp;
   <a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/></a>&nbsp;
+  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50"/></a>&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/></a>&nbsp;
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" width="50" height="50"/></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/download/?section=windows#" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50"/></a>&nbsp;
   <a href="https://ionicframework.com/" target="_blank"><img src="https://ionicacademy.com/wp-content/uploads/2020/02/ionic-Logo.svg" width="47" height="47"/></a>&nbsp;&nbsp;
-   <a href="https://www.oracle.com/" target="_blank"><img src="https://matplotlib.org/_static/images/documentation.svg" width="47" height="47" style="background-color: #413434; padding: 6px; border-radius: 8px"/></a>&nbsp;&nbsp;
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://matplotlib.org/_static/images/documentation.svg" width="47" height="47" style="background-color: #413434; padding: 6px; border-radius: 8px"/></a>&nbsp;&nbsp;
   <!-- Custom background icons for missing ones -->
   <a href="https://developer.android.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="46" height="46"/></a>&nbsp;&nbsp;
   <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="47" height="47"/></a>&nbsp;&nbsp;
