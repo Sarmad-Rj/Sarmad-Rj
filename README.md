@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! SARMAD here 👋</h1> <p align="right">
+<h1 align="center">Hey there! I'm SARMAD👋</h1> <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sarmad-rj&label=Profile%20views&color=0e75b6&style=flat" alt="sarmad-rj" />
 </p>
 <h3 align="center">A BCS student, passionate about building practical software solutions.</h3>
@@ -98,3 +98,5 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF8F1C&background=F9FF5300&center=true&vCenter=true&width=600&height=112&lines=Technology+is+just+a+tool!!;The+real+art+is+in+what+you+build+with+it.;And+you+know+what!%3F++;Debugging+is+like+detective+work%2C+and+I+love+a+good+mystery." alt="Typing SVG" />
   </a>
 </p>
+
+---
