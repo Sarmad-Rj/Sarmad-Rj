@@ -85,16 +85,16 @@
   </a>
 </p>
 
---- 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF8F1C&background=F9FF5300&center=true&vCenter=true&width=435&separator=%3C&lines=Technology+is+just+a+tool;+%3CThe+real+art+is+in+what+you+build+with+it.%3CAnd+you+know+what!%3F++%3CDebugging+is+like+detective+work%2C%3Cand+I+love+a+good+mystery." alt="Typing SVG" />
   </a>
-</p>
+ </p> -->
 
----
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF8F1C&background=F9FF5300&center=true&vCenter=true&width=700&height=112&separator=%3C&lines=Technology+is+just+a+tool;+The+real+art+is+in+what+you+build+with+it.%3CAnd+you+know+what!%3F++%3CDebugging+is+like+detective+work%2C+and+I+love+a+good+mystery." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF8F1C&background=F9FF5300&center=true&vCenter=true&width=600&height=112&lines=Technology+is+just+a+tool!!;The+real+art+is+in+what+you+build+with+it.;And+you+know+what!%3F++;Debugging+is+like+detective+work%2C+and+I+love+a+good+mystery." alt="Typing SVG" />
+  </a>
 </p>
